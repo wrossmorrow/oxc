@@ -22,7 +22,7 @@ functionality for OXC specific purposes.
 
 Run tests with
 
-  python tests/oxctsd_utests.py
+    >>> python tests/oxctsd_utests.py
 
 (or python3, depending on your environment settings). 
 
