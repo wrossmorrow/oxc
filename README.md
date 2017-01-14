@@ -20,6 +20,12 @@ of signals, but such tables have many empty cells. This can probably be handled 
 routines in pandas/numpy, including sparse Series/DataFrames, so some of this project may end up just wrapping that
 functionality for OXC specific purposes. 
 
+Run tests with
+
+  python tests/oxctsd_utests.py
+
+(or python3, depending on your environment settings). 
+
 Status
 -------------
 This is preliminary work I'm being proactive about publishing, and has
