@@ -24,7 +24,7 @@ Run tests with
 
     >>> python tests/oxctsd_utests.py
 
-(or python3, depending on your environment settings). 
+(or python3, depending on your environment settings). I haven't tested with python 2.7+, only 3.5. 
 
 Status
 -------------
