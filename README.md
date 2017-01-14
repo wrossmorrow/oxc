@@ -1,5 +1,5 @@
 
-OpenXC (OXC) Time Series Objects (TSO) and Collections (OXC) in Python. 
+OpenXC (OXC) Time Series Objects (TSO) and Collections (TSC) in Python. 
 =================================================================================
 
 Description
